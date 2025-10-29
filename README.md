@@ -7,7 +7,7 @@ Welcome to the comprehensive support documentation for AD-DA's Q-SYS solutions a
 ### QueueSpeak - Advanced Conferencing & Voting System
 A smart, fully integrated conferencing and voting system plugin designed for Q-SYS platforms.
 
-- **📖 [QueueSpeak User Guide](QueueSpeak)** - Complete documentation for setup, configuration, and operation
+- **📖 [QueueSpeak User Guide](wiki/QueueSpeak)** - Complete documentation for setup, configuration, and operation
 - **🎯 Key Features:** Microphone & camera management, voting systems, queue management, moderator dashboards
 - **📊 Capacity:** Supports 4-260 delegates with flexible audio routing
 
