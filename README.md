@@ -1,69 +1,95 @@
-# AD-DA Support Documentation
+# AD-DA Support Repository
 
-Welcome to the comprehensive support documentation for AD-DA's Q-SYS solutions and integrations. This wiki provides detailed guides, troubleshooting resources, and best practices for our audio-visual systems and plugins.
-
-## 🚀 Products & Solutions
-
-### QueueSpeak - Advanced Conferencing & Voting System
-A smart, fully integrated conferencing and voting system plugin designed for Q-SYS platforms.
-
-- **📖 [QueueSpeak User Guide](wiki/QueueSpeak)** - Complete documentation for setup, configuration, and operation
-- **🎯 Key Features:** Microphone & camera management, voting systems, queue management, moderator dashboards
-- **📊 Capacity:** Supports 4-260 delegates with flexible audio routing
+> **📖 Complete Documentation Available in Wiki**  
+> For comprehensive guides, installation instructions, and product documentation, please visit our **[Wiki](../../wiki)** section.
 
 ---
 
-## 📋 Quick Navigation
+## 🚀 Quick Access
 
-### Getting Started
-- [System Requirements](#system-requirements)
-- [Installation Guides](#installation-guides)
-- [Quick Start Tutorials](#quick-start-tutorials)
+### 📚 **[Visit the Wiki →](../../wiki)**
+Complete documentation for all AD-DA Q-SYS solutions and support resources.
 
-### Documentation
-- [QueueSpeak](QueueSpeak) - Complete user guide and configuration
-- [API Reference](#api-reference) *(Coming Soon)*
-- [Troubleshooting](#troubleshooting) *(Coming Soon)*
-
-### Support Resources
-- [FAQ](#faq) *(Coming Soon)*
-- [Video Tutorials](#video-tutorials) *(Coming Soon)*
-- [Contact Support](#contact-support)
+### 🎯 **Featured Products**
+- **[QueueSpeak](../../wiki/QueueSpeak)** - Advanced Q-SYS Conferencing & Voting System
 
 ---
 
-## 🔧 System Requirements
+## 📋 What You'll Find in the Wiki
 
-### Q-SYS Platform Requirements
-- Q-SYS Designer v9.0 or later
-- Q-SYS Core with sufficient processing capacity
-- Network connectivity for control interfaces
-- Compatible cameras and microphone systems
+### 🔧 **Product Documentation**
+- **Installation Guides** - Step-by-step setup instructions
+- **User Manuals** - Comprehensive operation guides
+- **Configuration Examples** - Real-world implementation scenarios
+- **Best Practices** - Expert recommendations and tips
 
-### Supported Hardware
-- Q-SYS native I/O cards
-- Third-party cameras (PTZ and fixed)
-- Various microphone systems and configurations
-- Touch panels and control surfaces
+### 🛠️ **Technical Resources**
+- **System Requirements** - Hardware and software specifications
+- **API Documentation** - Integration and development resources
+- **Troubleshooting** - Common issues and solutions
+- **FAQ** - Frequently asked questions and answers
+
+### 📞 **Support Information**
+- **Contact Details** - How to reach our support team
+- **Community Guidelines** - Contributing to documentation
+- **Updates & Announcements** - Latest product information
 
 ---
 
-## 📞 Contact Support
+## 🎯 About AD-DA
+
+**INTEGRATEUR AD-DA INC** specializes in advanced audio-visual integration solutions, with expertise in Q-SYS platform development and custom plugin creation. Our solutions are designed for professional conferencing, voting systems, and large-scale audio management.
+
+### 🌟 **Our Expertise**
+- Q-SYS Plugin Development
+- Audio-Visual System Integration
+- Conferencing & Voting Solutions
+- Custom Control Systems
+- Professional Installation & Support
+
+---
+
+## 📖 Repository Structure
+
+```
+📁 This Repository
+├── 📄 README.md (You are here)
+├── 📁 Source Code & Assets
+└── 📚 Wiki Documentation ← **Start Here!**
+    ├── 🏠 Home Page
+    ├── 📖 QueueSpeak Guide
+    ├── 🔧 Installation Guides
+    ├── 🛠️ Troubleshooting
+    └── 📞 Support Resources
+```
+
+---
+
+## 🚀 Getting Started
+
+1. **📚 [Visit our Wiki](../../wiki)** for complete documentation
+2. **📖 Read the [QueueSpeak Guide](../../wiki/QueueSpeak)** for our flagship product
+3. **📞 Contact Support** if you need assistance
+
+---
+
+## 📞 Need Help?
 
 For technical support, installation assistance, or product inquiries:
 
-- **Company:** INTEGRATEUR AD-DA INC
-- **GitHub:** [AD-DA-ca](https://github.com/AD-DA-ca)
-- **Documentation Issues:** Please create an issue in the respective repository
+- **📧 Contact:** See our [Wiki Contact Page](../../wiki#contact-support)
+- **🐛 Issues:** Create an issue in this repository
+- **💬 Discussions:** Use the Discussions tab for questions
 
 ---
 
-## 📝 Contributing to Documentation
+## 📝 Contributing
 
-This documentation is maintained as a GitHub wiki. If you find errors or have suggestions for improvements, please feel free to contribute or contact our support team.
+We welcome contributions to our documentation! Please see our [Wiki Contributing Guidelines](../../wiki#contributing-to-documentation) for more information.
 
-### Last Updated
-*October 2025*
+---
+
+**🔗 [Go to Wiki Documentation →](../../wiki)**
 
 ---
 
